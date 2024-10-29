@@ -163,3 +163,4 @@ id = int(input("Silahkan masukkan ID kalian, contoh(2409116063) : "))
 print(Fore.BLUE + f"\nSelamat datang {id} ({nama}), di Toko Pikri")
 selamat_datang()
 ```
+Kode ini meminta nama dan ID pengguna sebagai salam pembuka, lalu memanggil fungsi selamat_datang() untuk menampilkan menu utama.
